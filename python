@@ -1,4 +1,4 @@
-java code
+python code
 class phone:
    def __init__(self):
       self.phone_name=phone_name
