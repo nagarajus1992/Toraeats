@@ -1,0 +1,12 @@
+java code
+class phone:
+   def __init__(self):
+      self.phone_name=phone_name
+      self.company=company
+      self.price=price
+   def details(self):
+       print(self.phone_name)
+       print(self.company)
+       print(self.price)
+ ref=phone('realme','india',10000)
+ ref.datails()
