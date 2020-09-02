@@ -1,2 +1,26 @@
 sample python code
 jndji:
+class tara_eats:
+     car=100
+     def __init__(self,car_name,owner,cost):
+             self.car_name=car_name
+             self.owner=owner
+             self.cost=cost
+     def dispaly(self):
+         print("details of care:",self.car_name,/n,self.owner,/n,self.cost)
+         
+     $git clone githubrepourl------>To clone the repository from github to local.
+$vi filename--------->vi is editor to create the file and we can modify the file.
+Esc shift:wq -------->to save and quite.
+Esc shift:q----------->Without saving quite.
+$git status-----------> To check status of the file.
+
+Workspace(redcolor)
+
+$git add Filename-------->move file from workspace to staging area.
+$git commit -m "python file"Filename----->Move file from staging area to local repository.
+$git config--list ------->To check the git configuration.
+$git config--global user.name Nagaraju--------->To create the user name
+$git config--global user.email Nagaraju123@gmail.com---->To create the email address
+$git log---------->To check local repository files
+$git push repositoryurl----------->To push the code local to github
