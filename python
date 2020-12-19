@@ -10,3 +10,4 @@ class phone:
        print(self.price)
  ref=phone('realme','india',10000)
  ref.datails()
+ ref.details
