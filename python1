@@ -24,3 +24,4 @@ $git config--global user.name Nagaraju--------->To create the user name
 $git config--global user.email Nagaraju123@gmail.com---->To create the email address
 $git log---------->To check local repository files
 $git push repositoryurl----------->To push the code local to github
+$mvn archetype:generate
